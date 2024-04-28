@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Multiselect } from './desctop/shared/ui';
+import { Multiselect } from './shared/ui';
 
 </script>
 
